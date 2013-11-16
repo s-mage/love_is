@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Generator	generator.rb	/^class Generator$/;"	c
+Node	node.rb	/^class Node$/;"	c
+[]	node.rb	/^  def [](key)$/;"	f	class:Node
+generate	generator.rb	/^  def generate$/;"	f	class:Generator.next_value
+initial_values	generator.rb	/^  def initial_values$/;"	f	class:Generator
+initialize	node.rb	/^  def initialize(value = nil, weight = 1, childs = nil)$/;"	f	class:Node
+next	node.rb	/^  def next$/;"	f	class:Node
+next_value	generator.rb	/^  def next_value$/;"	f	class:Generator
+normalize_weights	node.rb	/^  def normalize_weights$/;"	f	class:Node
+probabilities	node.rb	/^  def probabilities$/;"	f	class:Node
+set_childs	node.rb	/^  def set_childs(childs)$/;"	f	class:Node
+weights	node.rb	/^  def weights$/;"	f	class:Node
