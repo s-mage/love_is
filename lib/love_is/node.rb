@@ -1,4 +1,4 @@
-class Node
+class LoveIs::Node
   attr_reader :value
   attr_accessor :probability, :childs, :weight
 

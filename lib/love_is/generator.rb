@@ -1,4 +1,4 @@
-class Generator
+class LoveIs::Generator
   attr_reader :ngram, :chain, :chain_length, :tree
 
   def initial_values
