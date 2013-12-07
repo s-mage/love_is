@@ -1,23 +1,32 @@
 class LoveIs::Generator
-  attr_reader :ngram, :chain, :chain_length, :tree
+  include LoveIs::Parser
+  attr_reader :ngram, :chain, :tree
+
+  def initialize(ngram = 3)
+    @tree = LoveIs::Node.new(nil, 1, [])
+    @ngram = ngram
+    @chain = []
+  end
+
+  def generate(chain_length = 1000)
+    @chain = []
+    initial_values
+    (chain_length - ngram).times do
+      break unless word = next_value
+      @chain << word
+    end
+    chain[1..-1].join(' ')
+  end
 
   def initial_values
-    (ngram - 1).times.inject(tree.next) do |node|
-      chain << node.value
+    ngram.times.inject(@tree.child('*')) do |node|
+      @chain << node.value
       node.next
     end
   end
 
   def next_value
-    (1..ngram).reverse_each.inject(tree.dup) do |node, index|
-      node[chain[-index]]
-    end.value
-  end
-
-  def generate
-    chain = []
-    initial_values
-    (chain_length - ngram).times { chain << next_value }
-    chain
+    node = @tree[*chain[(-ngram + 1)..-1]]
+    node ? node.next.value : nil
   end
 end
