@@ -3,12 +3,12 @@ module LoveIs::Parser
 
   def parse_file(filename)
     text = File.read(File.expand_path(filename))
-    parse(text, @ngram)
+    parse(text, ngram)
   end
 
   def parse(text, length)
     text.split("\n").map { |x| sentence2array(x) }.each do |sentence|
-      sentence.each_cons(length) { |sequence| @tree.inc(*sequence) }
+      sentence.each_cons(length) { |sequence| tree.inc(*sequence) }
     end
     @tree.probabilities
     self

@@ -19,14 +19,14 @@ class LoveIs::Generator
   end
 
   def initial_values
-    ngram.times.inject(@tree.child('*')) do |node|
+    ngram.times.inject(tree.child('*')) do |node|
       @chain << node.value
       node.next
     end
   end
 
   def next_value
-    node = @tree[*chain[(-ngram + 1)..-1]]
+    node = tree[*chain[(-ngram + 1)..-1]]
     node ? node.next.value : nil
   end
 end
