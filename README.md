@@ -20,7 +20,13 @@ Usage
 
   generator = LoveIs::Generator.new.parse_file('data')
   puts generator.generate
-  #=> Love is sitting pretty.
+  # => Love is sitting pretty.
+  
+  # Change depth of tree.
+  generator = LoveIs::Generator.new(5).parse_file('data')
+  # Generate just 4 words.
+  puts generator.generate(4)
+  # => Love is wishing the
 ```
 
 Contributing
