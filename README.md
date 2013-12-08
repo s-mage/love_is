@@ -27,6 +27,11 @@ Usage
   # Generate just 4 words.
   puts generator.generate(4)
   # => Love is wishing the
+  
+  # Put tree to yaml.
+  generator.data_to_yaml('data_in_yaml')
+  # Get tree from yaml.
+  generator.data_from_yaml('data_in_yaml')
 ```
 
 Contributing
