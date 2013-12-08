@@ -1,0 +1,3354 @@
+--- !ruby/object:LoveIs::Node
+value: 
+weight: 1
+childs:
+- !ruby/object:LoveIs::Node
+  value: '*'
+  weight: 0.14136125654450263
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: Love
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: is
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.14136125654450263
+- !ruby/object:LoveIs::Node
+  value: Love
+  weight: 0.14136125654450263
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: is
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: turning
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.018518518518518517
+    - !ruby/object:LoveIs::Node
+      value: a
+      weight: 0.07407407407407407
+      childs: []
+      probability: 0.09259259259259259
+    - !ruby/object:LoveIs::Node
+      value: wanting
+      weight: 0.037037037037037035
+      childs: []
+      probability: 0.12962962962962962
+    - !ruby/object:LoveIs::Node
+      value: wishing
+      weight: 0.037037037037037035
+      childs: []
+      probability: 0.16666666666666666
+    - !ruby/object:LoveIs::Node
+      value: new
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.18518518518518517
+    - !ruby/object:LoveIs::Node
+      value: where
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.2037037037037037
+    - !ruby/object:LoveIs::Node
+      value: wearing
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.2222222222222222
+    - !ruby/object:LoveIs::Node
+      value: sitting
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.24074074074074073
+    - !ruby/object:LoveIs::Node
+      value: burning
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.25925925925925924
+    - !ruby/object:LoveIs::Node
+      value: hoping
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.2777777777777778
+    - !ruby/object:LoveIs::Node
+      value: just
+      weight: 0.037037037037037035
+      childs: []
+      probability: 0.3148148148148148
+    - !ruby/object:LoveIs::Node
+      value: someone
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.33333333333333337
+    - !ruby/object:LoveIs::Node
+      value: when
+      weight: 0.14814814814814814
+      childs: []
+      probability: 0.4814814814814815
+    - !ruby/object:LoveIs::Node
+      value: hitting
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.5
+    - !ruby/object:LoveIs::Node
+      value: taking
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.5185185185185185
+    - !ruby/object:LoveIs::Node
+      value: living
+      weight: 0.037037037037037035
+      childs: []
+      probability: 0.5555555555555556
+    - !ruby/object:LoveIs::Node
+      value: waking
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.5740740740740741
+    - !ruby/object:LoveIs::Node
+      value: his
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.5925925925925926
+    - !ruby/object:LoveIs::Node
+      value: pooling
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.611111111111111
+    - !ruby/object:LoveIs::Node
+      value: knowing
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.6296296296296295
+    - !ruby/object:LoveIs::Node
+      value: your
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.648148148148148
+    - !ruby/object:LoveIs::Node
+      value: holding
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.6666666666666665
+    - !ruby/object:LoveIs::Node
+      value: going
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.685185185185185
+    - !ruby/object:LoveIs::Node
+      value: what
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.7037037037037035
+    - !ruby/object:LoveIs::Node
+      value: all
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.722222222222222
+    - !ruby/object:LoveIs::Node
+      value: being
+      weight: 0.05555555555555555
+      childs: []
+      probability: 0.7777777777777776
+    - !ruby/object:LoveIs::Node
+      value: admiring
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.7962962962962961
+    - !ruby/object:LoveIs::Node
+      value: something
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.8148148148148145
+    - !ruby/object:LoveIs::Node
+      value: the
+      weight: 0.07407407407407407
+      childs: []
+      probability: 0.8888888888888886
+    - !ruby/object:LoveIs::Node
+      value: two
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.9074074074074071
+    - !ruby/object:LoveIs::Node
+      value: not
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.9259259259259256
+    - !ruby/object:LoveIs::Node
+      value: making
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.9444444444444441
+    - !ruby/object:LoveIs::Node
+      value: that
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.9629629629629626
+    - !ruby/object:LoveIs::Node
+      value: enjoing
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.9814814814814811
+    - !ruby/object:LoveIs::Node
+      value: good
+      weight: 0.018518518518518517
+      childs: []
+      probability: 0.9999999999999996
+    probability: 1.0
+  probability: 0.28272251308900526
+- !ruby/object:LoveIs::Node
+  value: is
+  weight: 0.14397905759162305
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: turning
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: his
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.01818181818181818
+  - !ruby/object:LoveIs::Node
+    value: a
+    weight: 0.07272727272727272
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: necessity,
+      weight: 0.25
+      childs: []
+      probability: 0.25
+    - !ruby/object:LoveIs::Node
+      value: lazy
+      weight: 0.25
+      childs: []
+      probability: 0.5
+    - !ruby/object:LoveIs::Node
+      value: feeling
+      weight: 0.25
+      childs: []
+      probability: 0.75
+    - !ruby/object:LoveIs::Node
+      value: want
+      weight: 0.25
+      childs: []
+      probability: 1.0
+    probability: 0.09090909090909091
+  - !ruby/object:LoveIs::Node
+    value: wanting
+    weight: 0.03636363636363636
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: to
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.12727272727272726
+  - !ruby/object:LoveIs::Node
+    value: wishing
+    weight: 0.03636363636363636
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: 'on'
+      weight: 0.5
+      childs: []
+      probability: 0.5
+    - !ruby/object:LoveIs::Node
+      value: the
+      weight: 0.5
+      childs: []
+      probability: 1.0
+    probability: 0.16363636363636364
+  - !ruby/object:LoveIs::Node
+    value: new
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: ways
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.18181818181818182
+  - !ruby/object:LoveIs::Node
+    value: where
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: you
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.2
+  - !ruby/object:LoveIs::Node
+    value: wearing
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: his
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.2181818181818182
+  - !ruby/object:LoveIs::Node
+    value: sitting
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: pretty.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.2363636363636364
+  - !ruby/object:LoveIs::Node
+    value: burning
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: 'off'
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.2545454545454546
+  - !ruby/object:LoveIs::Node
+    value: hoping
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: this
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.27272727272727276
+  - !ruby/object:LoveIs::Node
+    value: just
+    weight: 0.05454545454545454
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: too
+      weight: 0.3333333333333333
+      childs: []
+      probability: 0.3333333333333333
+    - !ruby/object:LoveIs::Node
+      value: what
+      weight: 0.3333333333333333
+      childs: []
+      probability: 0.6666666666666666
+    - !ruby/object:LoveIs::Node
+      value: great
+      weight: 0.3333333333333333
+      childs: []
+      probability: 1.0
+    probability: 0.3272727272727273
+  - !ruby/object:LoveIs::Node
+    value: someone
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: to
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.3454545454545455
+  - !ruby/object:LoveIs::Node
+    value: when
+    weight: 0.14545454545454545
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: you
+      weight: 0.25
+      childs: []
+      probability: 0.25
+    - !ruby/object:LoveIs::Node
+      value: your
+      weight: 0.125
+      childs: []
+      probability: 0.375
+    - !ruby/object:LoveIs::Node
+      value: he
+      weight: 0.25
+      childs: []
+      probability: 0.625
+    - !ruby/object:LoveIs::Node
+      value: it
+      weight: 0.125
+      childs: []
+      probability: 0.75
+    - !ruby/object:LoveIs::Node
+      value: his
+      weight: 0.125
+      childs: []
+      probability: 0.875
+    - !ruby/object:LoveIs::Node
+      value: all
+      weight: 0.125
+      childs: []
+      probability: 1.0
+    probability: 0.49090909090909096
+  - !ruby/object:LoveIs::Node
+    value: hitting
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: the
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5090909090909091
+  - !ruby/object:LoveIs::Node
+    value: taking
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: one
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5272727272727273
+  - !ruby/object:LoveIs::Node
+    value: living
+    weight: 0.03636363636363636
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: spontaneously,
+      weight: 0.5
+      childs: []
+      probability: 0.5
+    - !ruby/object:LoveIs::Node
+      value: for
+      weight: 0.5
+      childs: []
+      probability: 1.0
+    probability: 0.5636363636363637
+  - !ruby/object:LoveIs::Node
+    value: waking
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: up
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5818181818181819
+  - !ruby/object:LoveIs::Node
+    value: his
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: kiss
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.6000000000000001
+  - !ruby/object:LoveIs::Node
+    value: pooling
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: your
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.6181818181818183
+  - !ruby/object:LoveIs::Node
+    value: knowing
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: your
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.6363636363636365
+  - !ruby/object:LoveIs::Node
+    value: your
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: very
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.6545454545454547
+  - !ruby/object:LoveIs::Node
+    value: holding
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: 'on'
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.6727272727272728
+  - !ruby/object:LoveIs::Node
+    value: going
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: into
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.690909090909091
+  - !ruby/object:LoveIs::Node
+    value: what
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: makes
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.7090909090909092
+  - !ruby/object:LoveIs::Node
+    value: all
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: about
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.7272727272727274
+  - !ruby/object:LoveIs::Node
+    value: being
+    weight: 0.05454545454545454
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: able
+      weight: 0.3333333333333333
+      childs: []
+      probability: 0.3333333333333333
+    - !ruby/object:LoveIs::Node
+      value: woken
+      weight: 0.6666666666666666
+      childs: []
+      probability: 1.0
+    probability: 0.781818181818182
+  - !ruby/object:LoveIs::Node
+    value: admiring
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: her
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.8000000000000002
+  - !ruby/object:LoveIs::Node
+    value: something
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: you
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.8181818181818183
+  - !ruby/object:LoveIs::Node
+    value: the
+    weight: 0.07272727272727272
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: sparkle
+      weight: 0.25
+      childs: []
+      probability: 0.25
+    - !ruby/object:LoveIs::Node
+      value: good-luck
+      weight: 0.25
+      childs: []
+      probability: 0.5
+    - !ruby/object:LoveIs::Node
+      value: most
+      weight: 0.25
+      childs: []
+      probability: 0.75
+    - !ruby/object:LoveIs::Node
+      value: greatest
+      weight: 0.25
+      childs: []
+      probability: 1.0
+    probability: 0.8909090909090911
+  - !ruby/object:LoveIs::Node
+    value: two
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: minds
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.9090909090909093
+  - !ruby/object:LoveIs::Node
+    value: not
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: knowing
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.9272727272727275
+  - !ruby/object:LoveIs::Node
+    value: making
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: waves
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.9454545454545457
+  - !ruby/object:LoveIs::Node
+    value: that
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: spark
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.9636363636363638
+  - !ruby/object:LoveIs::Node
+    value: enjoing
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: the
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.981818181818182
+  - !ruby/object:LoveIs::Node
+    value: good
+    weight: 0.01818181818181818
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: for
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0000000000000002
+  probability: 0.4267015706806283
+- !ruby/object:LoveIs::Node
+  value: turning
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: his
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: head.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.4293193717277487
+- !ruby/object:LoveIs::Node
+  value: a
+  weight: 0.02617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: necessity,
+    weight: 0.1
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: not
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.1
+  - !ruby/object:LoveIs::Node
+    value: new
+    weight: 0.1
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: moon,
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.2
+  - !ruby/object:LoveIs::Node
+    value: life
+    weight: 0.1
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: plan.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.30000000000000004
+  - !ruby/object:LoveIs::Node
+    value: lazy
+    weight: 0.1
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: morning
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.4
+  - !ruby/object:LoveIs::Node
+    value: picture
+    weight: 0.1
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: of
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: feeling
+    weight: 0.1
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: to
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.6
+  - !ruby/object:LoveIs::Node
+    value: kiss
+    weight: 0.2
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: and
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.8
+  - !ruby/object:LoveIs::Node
+    value: want
+    weight: 0.1
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: and
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.9
+  - !ruby/object:LoveIs::Node
+    value: need
+    weight: 0.1
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: brought
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.45549738219895286
+- !ruby/object:LoveIs::Node
+  value: necessity,
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: not
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: a
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.45811518324607325
+- !ruby/object:LoveIs::Node
+  value: not
+  weight: 0.010471204188481676
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: a
+    weight: 0.25
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: luxury.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.25
+  - !ruby/object:LoveIs::Node
+    value: leave
+    weight: 0.25
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: her
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: according
+    weight: 0.25
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: to
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.75
+  - !ruby/object:LoveIs::Node
+    value: knowing
+    weight: 0.25
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: what
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.46858638743455494
+- !ruby/object:LoveIs::Node
+  value: wanting
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: to
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: give
+      weight: 0.5
+      childs: []
+      probability: 0.5
+    - !ruby/object:LoveIs::Node
+      value: be
+      weight: 0.5
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.4738219895287958
+- !ruby/object:LoveIs::Node
+  value: to
+  weight: 0.02356020942408377
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: give
+    weight: 0.1111111111111111
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: her
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.1111111111111111
+  - !ruby/object:LoveIs::Node
+    value: spot
+    weight: 0.1111111111111111
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: that
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.2222222222222222
+  - !ruby/object:LoveIs::Node
+    value: act
+    weight: 0.1111111111111111
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: goofy
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.3333333333333333
+  - !ruby/object:LoveIs::Node
+    value: a
+    weight: 0.1111111111111111
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: life
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.4444444444444444
+  - !ruby/object:LoveIs::Node
+    value: start
+    weight: 0.2222222222222222
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: 'off'
+      weight: 0.5
+      childs: []
+      probability: 0.5
+    - !ruby/object:LoveIs::Node
+      value: your
+      weight: 0.5
+      childs: []
+      probability: 1.0
+    probability: 0.6666666666666666
+  - !ruby/object:LoveIs::Node
+    value: every
+    weight: 0.1111111111111111
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: precious
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.7777777777777777
+  - !ruby/object:LoveIs::Node
+    value: share
+    weight: 0.1111111111111111
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: your
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.8888888888888888
+  - !ruby/object:LoveIs::Node
+    value: be
+    weight: 0.1111111111111111
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: followed.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.49738219895287955
+- !ruby/object:LoveIs::Node
+  value: give
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: her
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: the
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.49999999999999994
+- !ruby/object:LoveIs::Node
+  value: her
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: the
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: moon
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: from
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: all
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.5052356020942408
+- !ruby/object:LoveIs::Node
+  value: the
+  weight: 0.031413612565445025
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: moon
+    weight: 0.08333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: and
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.08333333333333333
+  - !ruby/object:LoveIs::Node
+    value: road,
+    weight: 0.08333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: together.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.16666666666666666
+  - !ruby/object:LoveIs::Node
+    value: music
+    weight: 0.08333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: would
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.25
+  - !ruby/object:LoveIs::Node
+    value: new
+    weight: 0.08333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: year.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.3333333333333333
+  - !ruby/object:LoveIs::Node
+    value: day
+    weight: 0.08333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: before
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.41666666666666663
+  - !ruby/object:LoveIs::Node
+    value: right
+    weight: 0.08333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: place.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.49999999999999994
+  - !ruby/object:LoveIs::Node
+    value: sparkle
+    weight: 0.08333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: he
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5833333333333333
+  - !ruby/object:LoveIs::Node
+    value: good-luck
+    weight: 0.08333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: mascot
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.6666666666666666
+  - !ruby/object:LoveIs::Node
+    value: life
+    weight: 0.08333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: in
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.75
+  - !ruby/object:LoveIs::Node
+    value: slow
+    weight: 0.08333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: lane.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.8333333333333334
+  - !ruby/object:LoveIs::Node
+    value: most
+    weight: 0.08333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: precious
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.9166666666666667
+  - !ruby/object:LoveIs::Node
+    value: greatest
+    weight: 0.08333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: gift.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.5366492146596858
+- !ruby/object:LoveIs::Node
+  value: moon
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: and
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: the
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.5392670157068062
+- !ruby/object:LoveIs::Node
+  value: and
+  weight: 0.015706806282722512
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: the
+    weight: 0.16666666666666666
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: stars.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.16666666666666666
+  - !ruby/object:LoveIs::Node
+    value: drawn
+    weight: 0.16666666666666666
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: by
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.3333333333333333
+  - !ruby/object:LoveIs::Node
+    value: seeing
+    weight: 0.16666666666666666
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: him
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: a
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: cup.
+      weight: 0.3333333333333333
+      childs: []
+      probability: 0.3333333333333333
+    - !ruby/object:LoveIs::Node
+      value: rose.
+      weight: 0.3333333333333333
+      childs: []
+      probability: 0.6666666666666666
+    - !ruby/object:LoveIs::Node
+      value: need
+      weight: 0.3333333333333333
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.5549738219895287
+- !ruby/object:LoveIs::Node
+  value: wishing
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: 'on'
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: a
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: the
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: music
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.5602094240837695
+- !ruby/object:LoveIs::Node
+  value: 'on'
+  weight: 0.007853403141361256
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: a
+    weight: 0.3333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: new
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.3333333333333333
+  - !ruby/object:LoveIs::Node
+    value: to
+    weight: 0.3333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: every
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.6666666666666666
+  - !ruby/object:LoveIs::Node
+    value: the
+    weight: 0.3333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: beach.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.5680628272251308
+- !ruby/object:LoveIs::Node
+  value: new
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: moon,
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: together.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: ways
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: to
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.5732984293193716
+- !ruby/object:LoveIs::Node
+  value: ways
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: to
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: spot
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.575916230366492
+- !ruby/object:LoveIs::Node
+  value: spot
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: that
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: certain
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.5785340314136124
+- !ruby/object:LoveIs::Node
+  value: that
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: certain
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: feeling
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: spark
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: of
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.5837696335078532
+- !ruby/object:LoveIs::Node
+  value: certain
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: feeling
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: written
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.5863874345549736
+- !ruby/object:LoveIs::Node
+  value: feeling
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: written
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: and
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: to
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: treasure.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.5916230366492143
+- !ruby/object:LoveIs::Node
+  value: written
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: and
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: drawn
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.5942408376963347
+- !ruby/object:LoveIs::Node
+  value: drawn
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: by
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: Kim
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.5968586387434551
+- !ruby/object:LoveIs::Node
+  value: by
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: Kim
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: Grove.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.5994764397905755
+- !ruby/object:LoveIs::Node
+  value: where
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: you
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: want
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.6020942408376959
+- !ruby/object:LoveIs::Node
+  value: you
+  weight: 0.020942408376963352
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: want
+    weight: 0.125
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: to
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.125
+  - !ruby/object:LoveIs::Node
+    value: will
+    weight: 0.125
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: not
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.25
+  - !ruby/object:LoveIs::Node
+    value: cannot
+    weight: 0.125
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: hide
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.375
+  - !ruby/object:LoveIs::Node
+    value: a
+    weight: 0.125
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: picture
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: need
+    weight: 0.125
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: to
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.625
+  - !ruby/object:LoveIs::Node
+    value: can't
+    weight: 0.125
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: hide
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.75
+  - !ruby/object:LoveIs::Node
+    value: have
+    weight: 0.125
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: got
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.875
+  - !ruby/object:LoveIs::Node
+    value: can
+    weight: 0.125
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: find
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.6230366492146593
+- !ruby/object:LoveIs::Node
+  value: want
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: to
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: be.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: and
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: a
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.6282722513089001
+- !ruby/object:LoveIs::Node
+  value: wearing
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: his
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: biker
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.6308900523560205
+- !ruby/object:LoveIs::Node
+  value: his
+  weight: 0.007853403141361256
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: biker
+    weight: 0.3333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: jacket.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.3333333333333333
+  - !ruby/object:LoveIs::Node
+    value: kiss
+    weight: 0.3333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: to
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.6666666666666666
+  - !ruby/object:LoveIs::Node
+    value: world
+    weight: 0.3333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: revolves
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.6387434554973818
+- !ruby/object:LoveIs::Node
+  value: burning
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: 'off'
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: calories,
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.6413612565445022
+- !ruby/object:LoveIs::Node
+  value: 'off'
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: calories,
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: together.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: the
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: new
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.6465968586387429
+- !ruby/object:LoveIs::Node
+  value: hoping
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: this
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: will
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.6492146596858633
+- !ruby/object:LoveIs::Node
+  value: this
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: will
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: bring
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.6518324607329837
+- !ruby/object:LoveIs::Node
+  value: will
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: bring
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: him
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: not
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: leave
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.6570680628272245
+- !ruby/object:LoveIs::Node
+  value: bring
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: him
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: to
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.6596858638743449
+- !ruby/object:LoveIs::Node
+  value: him
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: to
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: heel.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: next
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: to
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.6649214659685857
+- !ruby/object:LoveIs::Node
+  value: just
+  weight: 0.007853403141361256
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: too
+    weight: 0.3333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: darned
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.3333333333333333
+  - !ruby/object:LoveIs::Node
+    value: what
+    weight: 0.3333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: you
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.6666666666666666
+  - !ruby/object:LoveIs::Node
+    value: great
+    weight: 0.3333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: being
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.672774869109947
+- !ruby/object:LoveIs::Node
+  value: too
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: darned
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: hot.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.6753926701570674
+- !ruby/object:LoveIs::Node
+  value: someone
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: to
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: act
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.6780104712041878
+- !ruby/object:LoveIs::Node
+  value: act
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: goofy
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: with.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.6806282722513082
+- !ruby/object:LoveIs::Node
+  value: when
+  weight: 0.02356020942408377
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: you
+    weight: 0.2222222222222222
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: will
+      weight: 0.5
+      childs: []
+      probability: 0.5
+    - !ruby/object:LoveIs::Node
+      value: cannot
+      weight: 0.5
+      childs: []
+      probability: 1.0
+    probability: 0.2222222222222222
+  - !ruby/object:LoveIs::Node
+    value: your
+    weight: 0.1111111111111111
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: differences
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.3333333333333333
+  - !ruby/object:LoveIs::Node
+    value: he
+    weight: 0.3333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: sends
+      weight: 0.3333333333333333
+      childs: []
+      probability: 0.3333333333333333
+    - !ruby/object:LoveIs::Node
+      value: kisses
+      weight: 0.3333333333333333
+      childs: []
+      probability: 0.6666666666666666
+    - !ruby/object:LoveIs::Node
+      value: nibbles
+      weight: 0.3333333333333333
+      childs: []
+      probability: 1.0
+    probability: 0.6666666666666666
+  - !ruby/object:LoveIs::Node
+    value: it
+    weight: 0.1111111111111111
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: is
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.7777777777777777
+  - !ruby/object:LoveIs::Node
+    value: his
+    weight: 0.1111111111111111
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: world
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.8888888888888888
+  - !ruby/object:LoveIs::Node
+    value: all
+    weight: 0.1111111111111111
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: you
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7041884816753919
+- !ruby/object:LoveIs::Node
+  value: leave
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: her
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: bedside.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7068062827225123
+- !ruby/object:LoveIs::Node
+  value: hitting
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: the
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: road,
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7094240837696327
+- !ruby/object:LoveIs::Node
+  value: taking
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: one
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: day
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7120418848167531
+- !ruby/object:LoveIs::Node
+  value: one
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: day
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: at
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7146596858638735
+- !ruby/object:LoveIs::Node
+  value: day
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: at
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: a
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: before
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: payday.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7198952879581143
+- !ruby/object:LoveIs::Node
+  value: at
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: a
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: time.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7225130890052347
+- !ruby/object:LoveIs::Node
+  value: living
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: spontaneously,
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: not
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: for
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: each
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7277486910994755
+- !ruby/object:LoveIs::Node
+  value: spontaneously,
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: not
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: according
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7303664921465959
+- !ruby/object:LoveIs::Node
+  value: according
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: to
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: a
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7329842931937163
+- !ruby/object:LoveIs::Node
+  value: music
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: would
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: never
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7356020942408367
+- !ruby/object:LoveIs::Node
+  value: would
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: never
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: stop.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7382198952879571
+- !ruby/object:LoveIs::Node
+  value: your
+  weight: 0.013089005235602094
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: differences
+    weight: 0.2
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: make
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.2
+  - !ruby/object:LoveIs::Node
+    value: loose
+    weight: 0.2
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: change
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.4
+  - !ruby/object:LoveIs::Node
+    value: heart
+    weight: 0.2
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: in
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.6000000000000001
+  - !ruby/object:LoveIs::Node
+    value: very
+    weight: 0.2
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: comfort
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.8
+  - !ruby/object:LoveIs::Node
+    value: most
+    weight: 0.2
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: private
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7513089005235591
+- !ruby/object:LoveIs::Node
+  value: differences
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: make
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: 'no'
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7539267015706795
+- !ruby/object:LoveIs::Node
+  value: make
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: 'no'
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: difference.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7565445026177999
+- !ruby/object:LoveIs::Node
+  value: waking
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: up
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: and
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7591623036649203
+- !ruby/object:LoveIs::Node
+  value: up
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: and
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: seeing
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7617801047120407
+- !ruby/object:LoveIs::Node
+  value: seeing
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: him
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: next
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7643979057591611
+- !ruby/object:LoveIs::Node
+  value: next
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: to
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: you.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7670157068062815
+- !ruby/object:LoveIs::Node
+  value: cannot
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: hide
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: your
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7696335078534019
+- !ruby/object:LoveIs::Node
+  value: hide
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: your
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: feelings.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7722513089005223
+- !ruby/object:LoveIs::Node
+  value: kiss
+  weight: 0.007853403141361256
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: to
+    weight: 0.3333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: start
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.3333333333333333
+  - !ruby/object:LoveIs::Node
+    value: and
+    weight: 0.6666666666666666
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: a
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7801047120418836
+- !ruby/object:LoveIs::Node
+  value: start
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: 'off'
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: the
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: your
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: day.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7853403141361244
+- !ruby/object:LoveIs::Node
+  value: lazy
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: morning
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: sleep-in.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7879581151832448
+- !ruby/object:LoveIs::Node
+  value: pooling
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: your
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: loose
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7905759162303652
+- !ruby/object:LoveIs::Node
+  value: loose
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: change
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: for
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.7931937172774856
+- !ruby/object:LoveIs::Node
+  value: change
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: for
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: pizza
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.795811518324606
+- !ruby/object:LoveIs::Node
+  value: for
+  weight: 0.007853403141361256
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: pizza
+    weight: 0.3333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: the
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.3333333333333333
+  - !ruby/object:LoveIs::Node
+    value: each
+    weight: 0.3333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: other.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.6666666666666666
+  - !ruby/object:LoveIs::Node
+    value: your
+    weight: 0.3333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: heart.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.8036649214659672
+- !ruby/object:LoveIs::Node
+  value: pizza
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: the
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: day
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.8062827225130876
+- !ruby/object:LoveIs::Node
+  value: he
+  weight: 0.010471204188481676
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: sends
+    weight: 0.25
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: you
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.25
+  - !ruby/object:LoveIs::Node
+    value: kisses
+    weight: 0.25
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: you.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: puts
+    weight: 0.25
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: into
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.75
+  - !ruby/object:LoveIs::Node
+    value: nibbles
+    weight: 0.25
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: your
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.8167539267015693
+- !ruby/object:LoveIs::Node
+  value: sends
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: you
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: a
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.8193717277486897
+- !ruby/object:LoveIs::Node
+  value: picture
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: of
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: his
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.8219895287958101
+- !ruby/object:LoveIs::Node
+  value: of
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: his
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: junk.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: electricity
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: between
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.8272251308900509
+- !ruby/object:LoveIs::Node
+  value: what
+  weight: 0.007853403141361256
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: you
+    weight: 0.3333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: need
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.3333333333333333
+  - !ruby/object:LoveIs::Node
+    value: makes
+    weight: 0.3333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: everything
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.6666666666666666
+  - !ruby/object:LoveIs::Node
+    value: to
+    weight: 0.3333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: do.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.8350785340314122
+- !ruby/object:LoveIs::Node
+  value: need
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: to
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: start
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: brought
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: together.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.840314136125653
+- !ruby/object:LoveIs::Node
+  value: knowing
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: your
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: heart
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: what
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: to
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.8455497382198938
+- !ruby/object:LoveIs::Node
+  value: heart
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: in
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: the
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.8481675392670142
+- !ruby/object:LoveIs::Node
+  value: in
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: the
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: right
+      weight: 0.5
+      childs: []
+      probability: 0.5
+    - !ruby/object:LoveIs::Node
+      value: slow
+      weight: 0.5
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.853403141361255
+- !ruby/object:LoveIs::Node
+  value: very
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: comfort
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: zone.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.8560209424083753
+- !ruby/object:LoveIs::Node
+  value: holding
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: 'on'
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: to
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.8586387434554957
+- !ruby/object:LoveIs::Node
+  value: every
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: precious
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: moment.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.8612565445026161
+- !ruby/object:LoveIs::Node
+  value: going
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: into
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: meltdown
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.8638743455497365
+- !ruby/object:LoveIs::Node
+  value: into
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: meltdown
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: when
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: your
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: life.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.8691099476439773
+- !ruby/object:LoveIs::Node
+  value: meltdown
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: when
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: he
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.8717277486910977
+- !ruby/object:LoveIs::Node
+  value: makes
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: everything
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: right
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.8743455497382181
+- !ruby/object:LoveIs::Node
+  value: everything
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: right
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: with
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.8769633507853385
+- !ruby/object:LoveIs::Node
+  value: right
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: with
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: your
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.8795811518324589
+- !ruby/object:LoveIs::Node
+  value: with
+  weight: 0.010471204188481676
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: your
+    weight: 0.25
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: world.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.25
+  - !ruby/object:LoveIs::Node
+    value: one
+    weight: 0.25
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: thought.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: a
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: kiss
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.8900523560209406
+- !ruby/object:LoveIs::Node
+  value: all
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: about
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: commumication.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: you
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: have
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.8952879581151814
+- !ruby/object:LoveIs::Node
+  value: being
+  weight: 0.007853403141361256
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: able
+    weight: 0.3333333333333333
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: to
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.3333333333333333
+  - !ruby/object:LoveIs::Node
+    value: woken
+    weight: 0.6666666666666666
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: with
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9031413612565427
+- !ruby/object:LoveIs::Node
+  value: able
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: to
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: share
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.905759162303663
+- !ruby/object:LoveIs::Node
+  value: share
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: your
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: most
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9083769633507834
+- !ruby/object:LoveIs::Node
+  value: most
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: private
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: thoughts.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 0.5
+  - !ruby/object:LoveIs::Node
+    value: precious
+    weight: 0.5
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: thing
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9136125654450242
+- !ruby/object:LoveIs::Node
+  value: admiring
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: her
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: from
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9162303664921446
+- !ruby/object:LoveIs::Node
+  value: from
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: all
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: angles.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.918848167539265
+- !ruby/object:LoveIs::Node
+  value: it
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: is
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: just
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9214659685863854
+- !ruby/object:LoveIs::Node
+  value: great
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: being
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: together.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9240837696335058
+- !ruby/object:LoveIs::Node
+  value: something
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: you
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: can't
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9267015706806262
+- !ruby/object:LoveIs::Node
+  value: can't
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: hide
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: from.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9293193717277466
+- !ruby/object:LoveIs::Node
+  value: sparkle
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: he
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: puts
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.931937172774867
+- !ruby/object:LoveIs::Node
+  value: puts
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: into
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: your
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9345549738219874
+- !ruby/object:LoveIs::Node
+  value: two
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: minds
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: with
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9371727748691078
+- !ruby/object:LoveIs::Node
+  value: minds
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: with
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: one
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9397905759162282
+- !ruby/object:LoveIs::Node
+  value: world
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: revolves
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: around
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9424083769633486
+- !ruby/object:LoveIs::Node
+  value: revolves
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: around
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: you.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.945026178010469
+- !ruby/object:LoveIs::Node
+  value: nibbles
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: your
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: ear.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9476439790575893
+- !ruby/object:LoveIs::Node
+  value: woken
+  weight: 0.005235602094240838
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: with
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: a
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9528795811518301
+- !ruby/object:LoveIs::Node
+  value: making
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: waves
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: 'on'
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9554973821989505
+- !ruby/object:LoveIs::Node
+  value: waves
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: 'on'
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: the
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9581151832460709
+- !ruby/object:LoveIs::Node
+  value: good-luck
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: mascot
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: she
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9607329842931913
+- !ruby/object:LoveIs::Node
+  value: mascot
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: she
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: gave
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9633507853403117
+- !ruby/object:LoveIs::Node
+  value: she
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: gave
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: to
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9659685863874321
+- !ruby/object:LoveIs::Node
+  value: gave
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: to
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: you.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9685863874345525
+- !ruby/object:LoveIs::Node
+  value: spark
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: of
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: electricity
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9712041884816729
+- !ruby/object:LoveIs::Node
+  value: electricity
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: between
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: two
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9738219895287933
+- !ruby/object:LoveIs::Node
+  value: between
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: two
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: people.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9764397905759137
+- !ruby/object:LoveIs::Node
+  value: enjoing
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: the
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: life
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9790575916230341
+- !ruby/object:LoveIs::Node
+  value: life
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: in
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: the
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9816753926701545
+- !ruby/object:LoveIs::Node
+  value: have
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: got
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: is
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9842931937172749
+- !ruby/object:LoveIs::Node
+  value: got
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: is
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: soul.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9869109947643953
+- !ruby/object:LoveIs::Node
+  value: good
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: for
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: your
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9895287958115156
+- !ruby/object:LoveIs::Node
+  value: precious
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: thing
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: you
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.992146596858636
+- !ruby/object:LoveIs::Node
+  value: thing
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: you
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: can
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9947643979057564
+- !ruby/object:LoveIs::Node
+  value: can
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: find
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: to
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9973821989528768
+- !ruby/object:LoveIs::Node
+  value: find
+  weight: 0.002617801047120419
+  childs:
+  - !ruby/object:LoveIs::Node
+    value: to
+    weight: 1.0
+    childs:
+    - !ruby/object:LoveIs::Node
+      value: give.
+      weight: 1.0
+      childs: []
+      probability: 1.0
+    probability: 1.0
+  probability: 0.9999999999999972

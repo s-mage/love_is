@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+require 'yaml'
+
 module LoveIs
 end
 

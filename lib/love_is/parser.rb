@@ -17,4 +17,12 @@ module LoveIs::Parser
   def sentence2array(sentence)
     sentence.split(/\s/).unshift(SENTENCE_BEGIN)
   end
+
+  def data_to_yaml(filename)
+    File.open(File.expand_path(filename), 'w') { |f| f.puts tree.to_yaml }
+  end
+
+  def data_from_yaml(filename)
+    @tree = YAML.load(File.read(File.expand_path(filename)))
+  end
 end

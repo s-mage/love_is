@@ -19,10 +19,14 @@ class LoveIs::Generator
   end
 
   def initial_values
-    ngram.times.inject(tree.child('*')) do |node|
+    ngram.times.inject(first_word) do |node|
       @chain << node.value
       node.next
     end
+  end
+
+  def first_word
+    tree.child(SENTENCE_BEGIN)
   end
 
   def next_value

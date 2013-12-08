@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'love_is'
-  s.version     = '0.1.0'
+  s.version     = '0.1.3'
   s.date        = '2013-12-07'
   s.summary     = "Love Is ..."
   s.description = "Markov chains generator."
