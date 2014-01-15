@@ -3,6 +3,8 @@ Love is...
 
 ... a Markov chains generator. Now you can define what is love.
 
+[![Code Climate](https://codeclimate.com/repos/52d65a6ae30ba005c70052ce/badges/5c4d87b7a359b9db5767/gpa.png)](https://codeclimate.com/repos/52d65a6ae30ba005c70052ce/feed)
+
 A Markov chain?
 -----------
 A Markov chain (discrete-time Markov chain or DTMC) named after Andrey Markov, is a mathematical system that undergoes transitions from one state to another, among a finite or countable number of possible states. (c) [Wikipedia](http://en.wikipedia.org/wiki/Markov_chain)
