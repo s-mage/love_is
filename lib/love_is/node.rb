@@ -54,7 +54,6 @@ class LoveIs::Node
   end
 
   def next
-    random_value = Random.new.rand
-    childs.find { |x| random_value - x.probability <= 0 }
+    childs.find { |x| rand - x.probability <= 0 }
   end
 end
