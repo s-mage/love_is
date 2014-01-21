@@ -10,9 +10,7 @@ class LoveIs::Node
 
   def set_childs(childs)
     @childs = childs
-    unless @childs.all? { |x| x.probability }
-      probabilities
-    end
+    probabilities unless @childs.all? { |x| x.probability }
   end
 
   def probabilities

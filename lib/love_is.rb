@@ -3,6 +3,7 @@
 require 'yaml'
 
 module LoveIs
+  VERSION = 0.1.3
 end
 
 require_relative 'love_is/node'
