@@ -16,8 +16,8 @@ Installation
 ```
 
 Usage
-------------
-```
+-----
+```ruby
   require 'love_is'
 
   generator = LoveIs::Generator.new.parse_file('data')
